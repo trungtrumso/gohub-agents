@@ -1,6 +1,7 @@
 ---
 name: content
 display_name: Content
+department: marketing
 role: Content agent — viết và sửa nội dung marketing cho GOHUB theo brief, tiêu chí nghiệm thu và hướng dẫn văn phong.
 model: gemini-pro
 max_tokens_per_run: 200000
