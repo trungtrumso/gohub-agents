@@ -1,0 +1,6 @@
+{
+  "name": "gohub-base",
+  "description": "Bộ skill nền vendored từ upstream (marketingskills, superpowers, humanizer), ghim theo commit trong base/PINS.md. Chỉ đọc; nâng cấp bằng commit riêng.",
+  "author": { "name": "GOHUB", "email": "nguyentrung@gohub.com" },
+  "keywords": ["gohub", "base", "vendored"]
+}

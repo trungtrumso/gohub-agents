@@ -1,12 +1,10 @@
-# Bộ skill nền (base)
+# Bộ skill nền (gohub-base)
 
-Các bộ upstream được **fork vào org GOHUB và vendored** vào đây theo ADR-109: chỉ chép những thư mục skill dùng tới, ghi SHA upstream, license và ngày review vào `PINS.md`. Không dùng submodule.
+Plugin `gohub-base` chứa các skill upstream được **vendored** theo ADR-109: chỉ chép thư mục skill dùng tới (`SKILL.md` + `references/`), ghi SHA upstream, license và ngày review trong `PINS.md`. Không submodule, không script.
 
-Quy trình (TASK-104):
-1. Chủ dự án fork repo upstream vào org GOHUB trên GitHub.
-2. Đọc từng `SKILL.md` và mọi script kèm theo trước khi chép.
-3. Chép thư mục skill vào `base/<pack>/<skill>/`, giữ nguyên file LICENSE của pack.
-4. Ghi một dòng vào `PINS.md`: pack, URL fork, SHA upstream, license, ngày review, người review.
-5. Nâng cấp = lặp lại 2–4 trong một commit riêng.
+Bố cục: `base/skills/<tên-skill>/SKILL.md`. Trong Claude Code các skill này là `/gohub-base:<tên-skill>`. Runner của nền tảng nạp chúng khi một skill của agent khai báo `uses: [<tên-skill>]`.
 
-Chưa có pack nào được vendored. `PINS.md` được tạo ở TASK-104.
+Quy tắc:
+- Không sửa file trong `base/skills/` trực tiếp; nếu GOHUB cần khác đi, viết skill riêng trong `agents/<slug>/skills/` ghi đè bằng hướng dẫn cụ thể hơn.
+- Nâng cấp theo quy trình trong `PINS.md`, một commit riêng.
+- Giấy phép gốc nằm trong `LICENSES/`; giữ attribution khi phân phối.
