@@ -35,5 +35,3 @@ Tuân theo hợp đồng trong `agent.md`: front-matter (`task_id`, `agent`, `la
 
 - `base/skills/copywriting`: cách viết tiêu đề, lợi ích, CTA, tránh AI tells.
 - `base/skills/content-strategy`: khi brief yêu cầu đề xuất chủ đề hoặc cụm nội dung thay vì một bài cụ thể.
-
-<!-- kiểm tra editor TASK-512 -->
