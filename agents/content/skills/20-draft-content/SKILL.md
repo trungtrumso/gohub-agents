@@ -23,7 +23,7 @@ uses: [copywriting, content-strategy]
 | `seo-article` | Tiêu đề chứa từ khoá chính → mở bài trả lời thẳng câu hỏi tìm kiếm → các H2 theo ý định tìm kiếm → FAQ 3–5 câu → CTA một dòng | Từ khoá lấy từ brief; không nhồi; `meta_description` ≤ 155 ký tự ở front-matter |
 | `social-post` | Hook một câu → 2–4 câu giá trị → CTA | Tối đa 3 hashtag; viết riêng cho từng nền tảng nếu brief nêu |
 | `landing` | Hero (lợi ích + CTA) → 3 lợi ích có bằng chứng → cách hoạt động → FAQ → CTA lặp | Theo `base/skills/copywriting`: một trang, một hành động |
-| `email` | Tiêu đề ≤ 50 ký tự → một ý → một CTA | `preheader` ở front-matter |
+| `email` | Tiêu đề ≤ 50 ký tự → một ý → một CTA | `preheader` ở front-matter; dòng tiêu đề bắt đầu bằng `Tiêu đề: `; CTA là lời mời có nơi mua (VD: "Mua tại gohub.com"), không phải câu lệnh cụt. |
 | `ads` | 3–5 biến thể tiêu đề + mô tả theo giới hạn ký tự của kênh | Ghi giới hạn ký tự đã áp dụng |
 | `other` | Theo brief | Ghi khung đã chọn trong `assumptions` |
 
