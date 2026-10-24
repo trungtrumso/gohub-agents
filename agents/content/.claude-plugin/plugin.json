@@ -1,0 +1,7 @@
+{
+  "name": "content",
+  "description": "Content agent — viết và sửa nội dung marketing GOHUB theo brief và tiêu chí nghiệm thu.",
+  "author": { "name": "GOHUB", "email": "nguyentrung@gohub.com" },
+  "license": "UNLICENSED",
+  "keywords": ["gohub", "content", "marketing"]
+}

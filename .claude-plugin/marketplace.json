@@ -1,0 +1,22 @@
+{
+  "name": "gohub-agents",
+  "description": "Đội agent của GOHUB: định nghĩa agent, skill, checklist và ví dụ huấn luyện. Dùng chung cho Claude Code (plugin) và runner của GOHUB AI Office.",
+  "owner": {
+    "name": "Trung",
+    "email": "nguyentrung@gohub.com"
+  },
+  "plugins": [
+    {
+      "name": "content",
+      "source": "./agents/content",
+      "description": "Content agent — viết và sửa nội dung marketing GOHUB theo brief và tiêu chí nghiệm thu.",
+      "category": "marketing"
+    },
+    {
+      "name": "coach",
+      "source": "./agents/coach",
+      "description": "Coach — đọc output bị từ chối và đề xuất thay đổi skill cho agent liên quan.",
+      "category": "internal"
+    }
+  ]
+}

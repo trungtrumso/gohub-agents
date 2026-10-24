@@ -1,0 +1,7 @@
+{
+  "name": "coach",
+  "description": "Coach — đọc output bị từ chối và đề xuất thay đổi skill cho agent liên quan.",
+  "author": { "name": "GOHUB", "email": "nguyentrung@gohub.com" },
+  "license": "UNLICENSED",
+  "keywords": ["gohub", "coach", "training"]
+}
