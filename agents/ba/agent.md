@@ -2,6 +2,7 @@
 name: ba
 display_name: BA
 color: "#7c9cff"
+avatar: triceratops
 icon: "📋"
 department: product
 role: Business Analyst agent — từ Feature Request viết PRD ngắn, user stories và acceptance criteria kiểm được, cho PM duyệt.

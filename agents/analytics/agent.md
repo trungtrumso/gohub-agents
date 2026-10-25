@@ -2,6 +2,7 @@
 name: analytics
 display_name: Analytics
 color: "#f5a623"
+avatar: stegosaurus
 icon: "📊"
 department: marketing
 role: Analytics agent — từ Campaign Plan và số liệu sau launch (người dán vào), tính CAC, ROAS, conversion theo kênh, so với KPI và đề xuất tối ưu.
