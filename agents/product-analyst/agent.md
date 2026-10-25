@@ -1,6 +1,8 @@
 ---
 name: product-analyst
 display_name: Product Analyst
+color: "#ff5c9a"
+icon: "📉"
 department: product
 role: Product Analyst agent — sau release, từ PRD và số liệu adoption/conversion (người dán vào), đo so với mục tiêu PRD và đề xuất bước tiếp.
 model: gemini-pro

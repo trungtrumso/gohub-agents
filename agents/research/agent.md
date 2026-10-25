@@ -1,6 +1,8 @@
 ---
 name: research
 display_name: Research
+color: "#5ad1e6"
+icon: "🔎"
 department: marketing
 role: Research agent — phân tích thị trường, đối thủ và keyword cho một chiến dịch eSIM GOHUB từ Campaign Brief; đầu ra là Research Report làm nền cho Growth và Content.
 model: gemini-pro

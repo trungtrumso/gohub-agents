@@ -1,6 +1,8 @@
 ---
 name: content
 display_name: Content
+color: "#b388ff"
+icon: "✍️"
 department: marketing
 role: Content agent — viết và sửa nội dung marketing cho GOHUB theo brief, tiêu chí nghiệm thu và hướng dẫn văn phong.
 model: gemini-pro
