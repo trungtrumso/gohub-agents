@@ -12,6 +12,9 @@ uses: [copywriting, content-strategy]
 - Một ý mỗi đoạn; đoạn ngắn; câu chủ động.
 - Mọi số liệu thị trường, giá, tốc độ, vùng phủ đều có **nguồn và ngày** ngay cạnh, hoặc ghi rõ là ước tính. Không bịa số.
 - Không hứa điều GOHUB không kiểm soát (ví dụ tốc độ mạng của nhà mạng địa phương); dùng cách nói có điều kiện.
+- Không tự ý thêm lợi ích, tính năng, hay cam kết không có trong `knowledge/product-context.md` hoặc brief. Mọi khẳng định phải có căn cứ.
+  - **Sai**: "Hỗ trợ 24/7", "Giá tốt nhất", "Kết nối không gián đoạn". (Các lợi ích này chưa được xác nhận trong bối cảnh sản phẩm).
+  - **Đúng**: "Hỗ trợ bằng tiếng Việt", "Gói 5, 7, 10 ngày". (Các thông tin này có trong brief hoặc là mô tả trực tiếp sản phẩm).
 - Không dùng các dấu hiệu văn AI: cấu trúc "không phải X, mà là Y", liệt kê ba ý ép buộc, câu kết một dòng sáo rỗng, dấu gạch ngang dày đặc, từ ngữ thổi phồng. Chi tiết trong `base/skills/humanizer` (tiếng Anh) và `knowledge/style-guide-vi.md` (tiếng Việt).
   - **Sai**: Với eSIM của GOHUB, bạn có ngay Internet tốc độ cao ngay khi máy bay hạ cánh.
   - **Đúng**: Mua eSIM GOHUB trước khi bay, quét mã cài trong 2 phút, hạ cánh là có mạng ngay.
