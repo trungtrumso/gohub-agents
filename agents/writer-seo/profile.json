@@ -59,6 +59,9 @@
       {
         "text": "Front-matter hợp lệ (YAML) và word_count đúng.",
         "origin": "mẫu (Content)"
+      },
+      {
+        "text": "Tiêu đề bài dưới 60 ký tự."
       }
     ],
     "uses": [
@@ -79,5 +82,5 @@
     "budgetUsdPerDay": 5,
     "speed": "standard"
   },
-  "createdAt": "2026-10-29T13:23:09.298Z"
+  "updatedAt": "2026-10-29T13:54:02.560Z"
 }

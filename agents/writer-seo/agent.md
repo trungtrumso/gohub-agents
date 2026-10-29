@@ -13,7 +13,7 @@ tools: []
 examples_in_prompt:
   good: 3
   bad: 3
-version: 0.1.0
+version: 0.1.1
 ---
 
 # Writer SEO
