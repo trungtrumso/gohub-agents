@@ -19,6 +19,12 @@
       "category": "internal"
     },
     {
+      "name": "thu-ky",
+      "source": "./agents/thu-ky",
+      "description": "Bé Thư Ký — thư ký riêng, bộ não thứ hai của từng người GOHUB: sổ tay, bản tin sáng, nhắc việc.",
+      "category": "internal"
+    },
+    {
       "name": "gohub-base",
       "source": "./base",
       "description": "Bộ skill nền vendored (copywriting, copy-editing, content-strategy, product-marketing, humanizer, verification-before-completion), ghim theo commit.",

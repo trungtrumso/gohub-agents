@@ -1,0 +1,7 @@
+{
+  "name": "thu-ky",
+  "description": "Bé Thư Ký — thư ký riêng, bộ não thứ hai của từng người GOHUB: sổ tay, bản tin sáng, nhắc việc.",
+  "author": { "name": "GOHUB", "email": "nguyentrung@gohub.com" },
+  "license": "UNLICENSED",
+  "keywords": ["gohub", "secretary", "second-brain"]
+}
