@@ -2,7 +2,7 @@
 name: social-writer
 display_name: "Social Writer"
 color: "#b388ff"
-avatar: parasaurolophus
+avatar: gau-surprise
 icon: "💬"
 department: marketing
 role: "Viết post mạng xã hội (Facebook, TikTok caption, thread) từ brief; mỗi nền tảng một bản riêng."

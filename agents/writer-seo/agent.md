@@ -2,7 +2,7 @@
 name: writer-seo
 display_name: "Writer SEO"
 color: "#b388ff"
-avatar: parasaurolophus
+avatar: gau-globe
 icon: "✍️"
 department: marketing
 role: "Viết bài SEO từ brief, outline và AM đã duyệt; văn phong thân thiện, mọi số liệu có nguồn."

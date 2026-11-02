@@ -2,7 +2,7 @@
 name: product
 display_name: Product
 color: "#ff8a65"
-avatar: ankylosaurus
+avatar: gau-travel
 icon: "🧩"
 department: product
 role: Product agent — đọc PRD và knowledge về hệ thống hiện có, đánh giá tác động, phụ thuộc, rủi ro kỹ thuật ở mức sản phẩm, nêu câu hỏi mở cho PM.

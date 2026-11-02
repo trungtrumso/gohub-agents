@@ -2,7 +2,7 @@
 name: growth
 display_name: Growth
 color: "#3ecf8e"
-avatar: brachiosaurus
+avatar: gau-point
 icon: "📈"
 department: marketing
 role: Growth agent — lập Campaign Plan (kênh, KPI, ngân sách theo kênh, lịch) từ Campaign Brief và Research Report; đầu ra cho Content triển khai và Analytics đo.

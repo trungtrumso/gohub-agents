@@ -2,7 +2,7 @@
 name: nguoi-kiem-seo
 display_name: "Người kiểm SEO"
 color: "#b388ff"
-avatar: stegosaurus
+avatar: gau-check
 icon: "📐"
 department: marketing
 role: "Chấm bài viết theo tiêu chí nghiệm thu và rubric SEO của website; chỉ ra chỗ chưa đạt, không viết lại."

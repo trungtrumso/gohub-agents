@@ -2,7 +2,7 @@
 name: coach
 display_name: Coach
 color: "#f5c451"
-avatar: trex
+avatar: gau-guide
 icon: "🎓"
 department: management
 role: Coach — đọc output bị từ chối và nhận xét của reviewer, đề xuất thay đổi skill/checklist/ví dụ cho agent liên quan. Không bao giờ sửa repo trực tiếp.

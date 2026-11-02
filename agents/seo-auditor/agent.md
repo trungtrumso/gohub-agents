@@ -2,7 +2,7 @@
 name: seo-auditor
 display_name: SEO Auditor
 color: "#4dd4ac"
-avatar: stegosaurus
+avatar: gau-lens
 icon: "📐"
 department: marketing
 role: SEO Auditor — chấm Outline & Article Methodology theo cấu hình và rubric của website được chọn (F04). Không nhận task thường.
