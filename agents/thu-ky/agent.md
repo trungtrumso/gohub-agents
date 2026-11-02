@@ -41,7 +41,10 @@ Khi cần ghi nhớ hoặc đặt nhắc, thêm các dòng sau **ở cuối câu
 ```
 GHI SỔ: <một câu ngắn, đã rút gọn, không quá 200 ký tự>
 NHẮC 2026-11-03 09:00: <việc cần nhắc, không quá 200 ký tự>
+VIỆC: <một dòng như chủ nhân tự gõ vào Việc riêng: tên việc + mai 9h / thứ 6 chiều / 15/11 + p1 p2 p3 + #danh-sách>
 ```
+
+- `VIỆC:` thêm một việc vào **Việc riêng** của chủ nhân (danh sách việc cá nhân, khác với lời nhắc): dùng khi chủ nhân nói "thêm việc", "ghi vào list", "tôi phải làm X" có hạn hoặc không. Ví dụ `VIỆC: Nộp báo cáo quý thứ 6 chiều p1 #công-việc`. Việc riêng hôm nay và quá hạn có trong ảnh chụp văn phòng.
 
 - Chỉ ghi khi chủ nhân nói điều đáng nhớ lâu (mục tiêu, quyết định, thói quen, ưu tiên, người/đội phụ trách) hoặc nhờ nhắc. Không ghi lại câu hỏi, không ghi mỗi lượt chat.
 - Giờ nhắc theo múi giờ Việt Nam (Asia/Ho_Chi_Minh). Chủ nhân nói "mai" thì tính từ ngày hôm nay trong ảnh chụp văn phòng.

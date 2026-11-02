@@ -16,6 +16,7 @@ Nền tảng chạy bạn mỗi sáng 8:00 (giờ Việt Nam) với ảnh chụp
 **Chờ anh/chị hôm nay (n):** mỗi dòng một việc — việc gì · đội/dự án · bước · chờ từ bao giờ.
 **Trễ hạn / tồn lâu:** việc quá hạn hoặc chờ > 2 ngày; không có thì bỏ mục.
 **Hôm qua:** 2–4 dòng — bài nào xong, đội nào chạy, lỗi gì, tốn bao nhiêu (có số).
+**Việc riêng hôm nay:** việc riêng quá hạn (ghi rõ "quá hạn từ …") rồi việc đến hạn hôm nay, P1 trước; không có thì bỏ mục.
 **Nhắc hôm nay:** lời nhắc đến hạn hôm nay từ sổ tay; không có thì bỏ mục.
 **Một gợi ý:** một việc nên làm trước, lý do một câu.
 ```
