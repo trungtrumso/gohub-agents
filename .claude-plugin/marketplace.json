@@ -7,6 +7,12 @@
   },
   "plugins": [
     {
+      "name": "gohub-work",
+      "source": "./plugins/gohub-work",
+      "description": "Làm việc của GOHUB AI Office bằng Claude Code trên máy bạn: kéo việc, viết theo agent của bước, nộp vào Chờ duyệt.",
+      "category": "runner"
+    },
+    {
       "name": "content",
       "source": "./agents/content",
       "description": "Content agent — viết và sửa nội dung marketing GOHUB theo brief và tiêu chí nghiệm thu.",

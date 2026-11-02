@@ -1,0 +1,7 @@
+{
+  "name": "gohub-work",
+  "description": "Làm việc của GOHUB AI Office bằng Claude Code trên máy bạn: kéo việc đang chờ, viết bài theo đúng agent của bước đó, nộp vào Chờ duyệt.",
+  "author": { "name": "GOHUB", "email": "nguyentrung@gohub.com" },
+  "license": "UNLICENSED",
+  "keywords": ["gohub", "runner", "claude-code"]
+}
