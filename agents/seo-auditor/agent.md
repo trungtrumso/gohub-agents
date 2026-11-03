@@ -10,6 +10,7 @@ model: gemini-pro
 max_tokens_per_run: 200000
 max_usd_per_day: 5
 tools: []
+functions: [seo-outline-audit]
 examples_in_prompt:
   good: 0
   bad: 0

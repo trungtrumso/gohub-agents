@@ -10,6 +10,7 @@ model: gemini-pro
 max_tokens_per_run: 200000
 max_usd_per_day: 5
 tools: []
+functions: [seo-content-brief, seo-outline-generator, seo-outline-refine, seo-article-methodology, seo-content-writer]
 examples_in_prompt:
   good: 3
   bad: 3

@@ -10,6 +10,7 @@ model: gemini-pro
 max_tokens_per_run: 200000
 max_usd_per_day: 4
 tools: []
+functions: [seo-keyword-research, seo-outline-am-batch]
 examples_in_prompt:
   good: 2
   bad: 2
