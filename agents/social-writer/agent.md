@@ -10,6 +10,7 @@ model: gemini-pro
 max_tokens_per_run: 200000
 max_usd_per_day: 3
 tools: []
+functions: [social-repurpose]
 examples_in_prompt:
   good: 3
   bad: 3
