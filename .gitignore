@@ -4,3 +4,7 @@ node_modules
 .DS_Store
 # work folders of tools/gohub.mjs (briefs and drafts pulled from the platform)
 .gohub/
+
+# Obsidian app settings (each person keeps their own)
+.obsidian/
+.trash/
