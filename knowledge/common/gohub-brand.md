@@ -39,7 +39,8 @@ Gohub bán eSIM du lịch: gói data cho người đi nước ngoài. Thương h
 - Hashtag theo cách Fanpage đang dùng: luôn có #Gohub và #eSIMGohub, cộng 1 hashtag điểm đến hoặc chủ đề viết liền không dấu (ví dụ #eSIMNhatBan, #dulichSingapore). Không vượt giới hạn hashtag của từng mạng.
 
 ## Điều cấm (thương hiệu)
-- Không tự đưa số liệu về Gohub (số khách hàng, số quốc gia, điểm đánh giá, "hỗ trợ 24/7", "đổi eSIM trong 1 giờ"…) nếu bài viết không có. Các con số này đang khác nhau giữa các tài liệu, chỉ dùng khi bài đã nêu.
+- **Được nói dù bài không nhắc** (chủ dự án duyệt 2026-11-05, Fanpage vẫn dùng): "Hỗ trợ 24/7" — viết đúng như Fanpage, ví dụ "✅ Đội ngũ hỗ trợ 24/7 trên Fanpage và hotline". Chỉ câu này; không suy ra cam kết khác (thời gian phản hồi, hoàn tiền…).
+- Không tự đưa số liệu hay cam kết khác về Gohub (số khách hàng, số quốc gia, điểm đánh giá, "đổi eSIM trong 1 giờ", "hoàn tiền 100%", "giá cực tốt"…) nếu bài viết không có. Các con số này đang khác nhau giữa các tài liệu, chỉ dùng khi bài đã nêu.
 - Không hứa điều Gohub không kiểm soát: tốc độ mạng của nhà mạng địa phương, "không giới hạn", "rẻ nhất", "nhanh nhất".
 - Không nhắc tên hay chê đối thủ.
 - Không tả hay "vẽ" logo Gohub, không tả chú gấu mascot trong ý tưởng ảnh: logo và Gấu chỉ dùng bản chính thức do người thiết kế gắn vào.
