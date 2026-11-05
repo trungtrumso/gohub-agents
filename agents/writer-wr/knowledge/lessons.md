@@ -12,3 +12,4 @@ Mỗi dòng là một review của người thật (✅ chấp nhận · ❌ t�
 - 2026-11-05 ❌ [web: wr-a-1793874522865-tlas.example.com] “So sánh eSIM và SIM vật lý”: Viết gọn phần hướng dẫn
 - 2026-11-05 ❌ [web: wr-a-1793876713349-1gi5.example.com] “So sánh eSIM và SIM vật lý”: Viết gọn phần hướng dẫn
 - 2026-11-05 ❌ [web: wr-a-1793889455029-s266.example.com] “So sánh eSIM và SIM vật lý”: Viết gọn phần hướng dẫn
+- 2026-11-05 ❌ [web: wr-a-1793900484338-j2q0.example.com] “So sánh eSIM và SIM vật lý”: Viết gọn phần hướng dẫn
