@@ -71,6 +71,19 @@ SIM & eSIM du lịch toàn cầu.
 - Giọng đời thường, vui như reels của Fanpage ("Đi Nhật lên núi vẫn có mạng lướt TikTok"), 1–3 câu, một câu hỏi hoặc một mẹo nhỏ. Nhắc Gohub một lần. Không chữ ký, không hashtag.
 
 ## Hình ảnh (cho "imagePrompt" và ảnh AI)
+### Ảnh bài đăng mạng xã hội của Gohub trông như thế nào (mẫu chủ dự án gửi 2026-11-05: eSIM Trung Quốc, carousel eSIM Lào 4 trang, eSIM Lào mạng Unitel)
+Ảnh social của Gohub là **ảnh thiết kế có chữ**, không phải ảnh chụp trơn:
+- **Nền:** trắng sạch, hoặc ảnh thật của **công trình biểu tượng của điểm đến** (Tử Cấm Thành, Pha That Luang, Vat Phou, đường chân trời thành phố), trời xanh, nắng đẹp; ảnh thường chiếm một nửa hoặc phần dưới khung.
+- **Tiêu đề** to, đậm, 2 dòng: dòng chính màu xanh Gohub ("eSIM Trung Quốc", "Lào"), dòng phụ màu chữ đậm gần đen ("dùng được Tiktok, Facebook"); có khi đặt trong một thẻ trắng bo góc phía trên. Tiêu đề kiểu câu hỏi cũng hay dùng ("Mua eSIM Lào nên ưu tiên mạng gì?").
+- **Danh sách 3–4 dòng**, mỗi dòng ≤ 6 chữ, có dấu ✓ tròn màu xanh ngọc hoặc chữ đầu tô **cam** ("Cam kết…", "Không cần cài VPN…", "Không bị chặn…"); chữ quan trọng in đậm.
+- **Con số lớn** khi có ưu đãi thật: "30%" xanh rất to với "Giảm đến" nhỏ phía trên; mã giảm giá màu cam to ("GOCALL", "10%"); dòng "Chỉ trong tháng này!" tô nền vàng như bút dạ quang.
+- **Điện thoại** cầm trên tay hiển thị app/web Gohub hoặc mã QR; **logo Gohub** trắng trên thẻ xanh bo góc ở góc trên phải; nút **"MUA NGAY"** dạng viên thuốc xanh chuyển màu.
+- **Gấu** (mascot) xuất hiện như điểm vui: ló đầu trên mép giấy, lái máy bay. Chữ viết tay xanh "Travel like a local" (khẩu hiệu Gohub, đi cùng "Cùng bạn du lịch như người bản xứ").
+- Bộ màu: xanh Gohub, xanh ngọc cho dấu ✓, cam cho chữ nhấn và mã giảm, vàng dạ quang cho chữ cần chú ý, chữ chính gần đen, nền trắng.
+
+Khi viết "imagePrompt" cho ảnh AI: chỉ mô tả **phần ảnh nền** (công trình biểu tượng hoặc cảnh đặc trưng của điểm đến, trời trong, nắng ban ngày, chừa khoảng trống sáng ở một phía cho chữ). Chữ, logo, Gấu, điện thoại, danh sách do khung thiết kế của Gohub đặt lên, không nhờ AI vẽ.
+
+### Ảnh nền do AI vẽ
 - Ảnh chụp du lịch thật, ánh sáng ban ngày tự nhiên, sáng và thoáng, nhiều khoảng trống, bố cục gọn.
 - Tông màu thương hiệu: xanh cobalt (#1446a5) làm điểm nhấn trên đồ vật (ba lô, ốp điện thoại, áo khoác, vali), nền tươi kiểu xanh bạc hà sang xanh trời nhạt hoặc nắng ấm màu đào; tránh tông tối, neon, u ám.
 - Chủ thể quen thuộc: du khách (nhìn từ sau hoặc ở xa, không rõ mặt) cầm điện thoại ở sân bay, nhà ga, phố đặc trưng của điểm đến; bản đồ, vali, vé máy bay không có chữ.
