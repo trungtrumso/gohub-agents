@@ -1,6 +1,7 @@
 ---
 name: ban-tin-sang
 description: Bản tin sáng 8:00 cho chủ nhân — một trang ngắn từ ảnh chụp văn phòng và sổ tay: chờ gì, trễ gì, hôm qua có gì, hôm nay nhắc gì, tốn bao nhiêu.
+group: Vận hành
 uses: []
 ---
 

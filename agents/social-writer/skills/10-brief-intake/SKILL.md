@@ -1,11 +1,15 @@
 ---
 name: brief-intake
-description: Bước 1 của Content agent — đọc brief và tiêu chí nghiệm thu, nạp bối cảnh sản phẩm, chốt giả định trước khi viết. Dùng khi bắt đầu bất kỳ task nội dung nào.
+description: Bước 1 — đọc brief và tiêu chí nghiệm thu, nạp bối cảnh sản phẩm, chốt giả định trước khi viết.
+group: Social
 uses: [copywriting, humanizer, product-marketing, content-strategy, copy-editing, verification-before-completion]
 knowledge: [common/product-context, common/claims-policy, common/glossary, style-guide-vi]
 ---
 
 # Tiếp nhận brief
+
+## Khi nào dùng
+Dùng khi bắt đầu bất kỳ task nội dung nào.
 
 Mục tiêu: trước khi viết một chữ, biết rõ viết cho ai, để làm gì, ở kênh nào, bằng ngôn ngữ nào, và "đạt" nghĩa là gì.
 

@@ -1,6 +1,7 @@
 ---
 name: self-review
 description: Tự soát công thức và kỳ so sánh.
+group: Nghiên cứu
 uses: [verification-before-completion]
 ---
 

@@ -1,10 +1,14 @@
 ---
 name: self-review
-description: Bước 3 của Content agent — rà bản nháp theo từng tiêu chí nghiệm thu, sửa văn AI, điền criteria_checked và chạy checklist pre-submit trước khi nộp. Dùng cuối mỗi task nội dung.
+description: Bước 3 — rà bản nháp theo từng tiêu chí nghiệm thu, sửa văn AI, điền criteria_checked, chạy checklist pre-submit.
+group: Nội dung
 uses: [copy-editing, humanizer, verification-before-completion]
 ---
 
 # Tự rà soát trước khi nộp
+
+## Khi nào dùng
+Dùng cuối mỗi task nội dung, trước khi nộp.
 
 Nguyên tắc từ `base/skills/verification-before-completion`: không tuyên bố "đạt" khi chưa kiểm. Mỗi dòng `criteria_checked` phải trỏ được vào chỗ trong bài chứng minh nó.
 

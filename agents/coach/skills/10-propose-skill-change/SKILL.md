@@ -1,10 +1,14 @@
 ---
 name: propose-skill-change
-description: Skill duy nhất của Coach — biến một lần từ chối thành một đề xuất thay đổi skill, checklist hoặc ví dụ nhỏ nhất có thể, kèm diff và lý do. Dùng khi nhận một review bị từ chối.
+description: Biến một lần bị từ chối thành đề xuất sửa skill, checklist hoặc ví dụ nhỏ nhất có thể, kèm diff và lý do.
+group: AI
 uses: []
 ---
 
 # Đề xuất thay đổi skill
+
+## Khi nào dùng
+Skill duy nhất của Coach. Dùng khi nhận một review bị từ chối.
 
 ## Phân loại lý do từ chối trước
 

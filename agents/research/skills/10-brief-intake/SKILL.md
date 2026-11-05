@@ -1,6 +1,7 @@
 ---
 name: brief-intake
 description: Đọc Campaign Brief, xác định thị trường, mục tiêu, giới hạn; liệt kê giả định.
+group: Nghiên cứu
 uses: [product-marketing]
 knowledge: [product-context]
 ---

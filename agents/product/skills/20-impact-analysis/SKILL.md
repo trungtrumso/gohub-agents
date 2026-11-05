@@ -1,6 +1,7 @@
 ---
 name: impact-analysis
 description: Đánh giá tác động theo module, phụ thuộc, rủi ro.
+group: Vận hành
 uses: []
 knowledge: [system-overview]
 ---

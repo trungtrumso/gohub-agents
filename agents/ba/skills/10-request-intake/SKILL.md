@@ -1,6 +1,7 @@
 ---
 name: request-intake
 description: Đọc feature request, xác định người dùng, mục tiêu, ràng buộc.
+group: Vận hành
 uses: []
 knowledge: [product-context, common/glossary]
 ---

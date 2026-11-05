@@ -1,6 +1,7 @@
 ---
 name: self-review
 description: Tự soát theo checklist và tiêu chí nghiệm thu.
+group: Bán hàng
 uses: [verification-before-completion]
 ---
 

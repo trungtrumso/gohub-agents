@@ -1,6 +1,7 @@
 ---
 name: cach-lam-viec
 description: Cách Người kiểm SEO làm một task, theo thứ tự.
+group: SEO
 uses: [verification-before-completion]
 knowledge: [common/product-context, common/claims-policy, common/glossary]
 ---

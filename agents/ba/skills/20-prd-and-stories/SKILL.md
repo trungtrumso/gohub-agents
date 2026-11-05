@@ -1,6 +1,7 @@
 ---
 name: prd-and-stories
 description: Viết PRD ngắn và user stories với AC Given/When/Then.
+group: Vận hành
 uses: []
 knowledge: [product-context]
 ---

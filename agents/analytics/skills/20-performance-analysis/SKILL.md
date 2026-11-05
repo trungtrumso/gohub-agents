@@ -1,6 +1,7 @@
 ---
 name: performance-analysis
 description: Tính CAC/ROAS/CR theo khung analytics + attribution; so với KPI.
+group: Nghiên cứu
 uses: [analytics, attribution]
 knowledge: [common/glossary]
 ---

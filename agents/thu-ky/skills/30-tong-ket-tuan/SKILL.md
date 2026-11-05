@@ -1,6 +1,7 @@
 ---
 name: tong-ket-tuan
 description: Tổng kết tuần cho chủ nhân (mặc định thứ Sáu 17:00) — xong gì, dời gì, quá hạn gì, tuần sau nặng nhẹ ra sao, một việc nên dọn trước khi nghỉ.
+group: Vận hành
 uses: []
 ---
 

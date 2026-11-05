@@ -1,6 +1,7 @@
 ---
 name: prd-intake
 description: Đọc PRD bước trước và knowledge hệ thống.
+group: Vận hành
 uses: []
 knowledge: [product-context, system-overview]
 ---

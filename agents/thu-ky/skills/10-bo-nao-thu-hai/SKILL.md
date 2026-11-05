@@ -1,10 +1,14 @@
 ---
 name: bo-nao-thu-hai
-description: Cách Bé Thư Ký trả lời và ghi nhớ trong cuộc trò chuyện — đọc sổ tay và ảnh chụp văn phòng, trả lời đúng việc, ghi những gì đáng nhớ, đặt nhắc đúng giờ.
+description: Cách Bé Thư Ký trả lời và ghi nhớ — đọc sổ tay và ảnh chụp văn phòng, trả lời đúng việc, ghi điều đáng nhớ, đặt nhắc.
+group: Vận hành
 uses: []
 ---
 
 # Bộ não thứ hai
+
+## Khi nào dùng
+Mọi lượt trò chuyện với chủ nhân.
 
 ## Đọc trước khi trả lời
 

@@ -1,6 +1,7 @@
 ---
 name: data-intake
 description: Đọc số liệu dán vào (CSV/markdown), chuẩn hoá, phát hiện thiếu.
+group: Nghiên cứu
 uses: []
 ---
 

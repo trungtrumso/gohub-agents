@@ -1,6 +1,7 @@
 ---
 name: draft-content
 description: Bước 2 của Content agent — viết bản nháp theo kết quả tiếp nhận brief, đúng loại nội dung và văn phong, có nguồn cho số liệu. Dùng sau brief-intake.
+group: Social
 uses: [copywriting, content-strategy]
 knowledge: [common/gohub-brand, style-guide-vi]
 ---

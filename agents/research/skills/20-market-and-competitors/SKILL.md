@@ -1,6 +1,7 @@
 ---
 name: market-and-competitors
 description: Phân tích thị trường và đối thủ theo khung competitors + customer-research.
+group: Nghiên cứu
 uses: [competitors, customer-research]
 knowledge: [product-context, common/glossary]
 ---

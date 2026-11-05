@@ -1,6 +1,7 @@
 ---
 name: inputs-intake
 description: Đọc brief và research report, chốt giả định và giới hạn ngân sách.
+group: Bán hàng
 uses: []
 knowledge: [product-context]
 ---

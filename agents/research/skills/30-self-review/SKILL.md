@@ -1,6 +1,7 @@
 ---
 name: self-review
 description: Tự soát theo checklist và tiêu chí nghiệm thu trước khi nộp.
+group: Nghiên cứu
 uses: [verification-before-completion]
 ---
 

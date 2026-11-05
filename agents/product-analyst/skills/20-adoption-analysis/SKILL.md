@@ -1,6 +1,7 @@
 ---
 name: adoption-analysis
 description: Đo adoption/conversion so với mục tiêu PRD.
+group: Vận hành
 uses: [analytics]
 ---
 

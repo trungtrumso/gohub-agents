@@ -1,6 +1,7 @@
 ---
 name: campaign-plan
 description: Lập kế hoạch campaign theo khung marketing-plan, cắt theo kênh và KPI.
+group: Bán hàng
 uses: [marketing-plan]
 knowledge: [product-context, common/glossary]
 ---
