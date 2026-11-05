@@ -8,7 +8,7 @@ status: draft
 Đây là luật tối thiểu để agent viết tiếng Việt không giống máy dịch. Content team bổ sung ví dụ thật của GOHUB qua vòng lặp huấn luyện.
 
 ## Giọng
-- Nói chuyện với một người, xưng "bạn"; GOHUB tự xưng "GOHUB" hoặc "chúng tôi", nhất quán trong một bài.
+- Nói chuyện với một người, xưng "bạn"; Gohub tự xưng "Gohub" hoặc "chúng tôi", nhất quán trong một bài. Tên viết "Gohub" như trên gohub.com (xem `common/gohub-brand`).
 - Ngắn, cụ thể, dùng từ hằng ngày. Ưu tiên "mua", "dùng", "kích hoạt" hơn "tiến hành mua", "thực hiện kích hoạt".
 
 ## Dấu hiệu văn AI hoặc máy dịch cần tránh

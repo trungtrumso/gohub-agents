@@ -9,6 +9,7 @@ description: Checklist bắt buộc chạy trước khi nộp artifact.
 - [ ] Ngôn ngữ artifact đúng với language trong brief.
 - [ ] Loại nội dung đúng khung trong skills/20-draft-content.
 - [ ] Đã rà dấu hiệu văn AI theo hướng dẫn của ngôn ngữ (vi: knowledge/style-guide-vi.md; en: base/skills/humanizer).
+- [ ] Đúng thương hiệu theo `common/gohub-brand`: tên "Gohub", xưng "bạn", CTA ngắn, không tự thêm số liệu về Gohub, ý tưởng ảnh đúng tông.
 - [ ] Không có dữ liệu khách hàng, mã eSIM, thông tin thanh toán, secret.
 - [ ] Mọi số liệu hoặc nhận định về thị trường có nguồn và ngày; không có thì ghi là ước tính.
 - [ ] Nếu language: th, đã ghi giả định cần người bản ngữ review.
